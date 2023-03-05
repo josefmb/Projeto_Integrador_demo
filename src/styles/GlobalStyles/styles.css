@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html, body, #root {
+    font-family: 'Inter', sans-serif;
+    background-color: #fffafa;
+    height: 100%;
+}
